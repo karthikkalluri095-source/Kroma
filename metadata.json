@@ -1,0 +1,11 @@
+{
+  "name": "Remix Kroma Creative — AI Content Creator \u0026 Virtual Persona Marketplace",
+  "description": "AI-native marketplace connecting AI filmmakers, animators, generative directors, and virtual influencer designers with brands and creative agencies.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
